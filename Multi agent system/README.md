@@ -155,7 +155,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Created by [Panav Kumar](https://github.com/panavkumar717)
+Created by [Panav Kumar DV](https://github.com/panavkumar717)
 
 ---
 
