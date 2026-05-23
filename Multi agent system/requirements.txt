@@ -1,0 +1,43 @@
+# Core LangChain ecosystem
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-google-genai>=1.0.0
+
+# Google Gemini SDK
+google-generativeai>=0.7.0
+
+# Tavily Search Tool (optional web search)
+tavily-python>=0.3.0
+
+# Web scraping (optional)
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+lxml>=5.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Async support
+aiohttp>=3.9.0
+
+# Data handling (optional)
+pandas>=2.0.0
+
+# Token / text utilities (Gemini uses different token system but still useful)
+tiktoken>=0.6.0
+
+# Logging / debugging
+rich>=13.7.0
+
+# Retry handling
+tenacity>=8.2.0
+
+# JSON handling
+orjson>=3.9.0
+
+# Typing / schemas
+pydantic>=2.5.0
+
+# Optional HTML parsing
+html5lib>=1.1
